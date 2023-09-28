@@ -7,8 +7,6 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.*;
 
-// This is Port-Scanner
-
 public class PortScanner {
     private static final File port = new File("port.txt");
     private static final File commonPort = new File("commonPorts.txt");
