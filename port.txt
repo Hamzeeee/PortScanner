@@ -1,0 +1,3 @@
+meinpvp.eu:80
+meinpvp.eu:25565
+meinpvp.eu:443
